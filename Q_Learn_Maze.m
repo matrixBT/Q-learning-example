@@ -1,7 +1,6 @@
 %% Maze Solving Using Q-learning Algorithm
-% *Author:* Bhartendu Thakur, Viji Narayan
+% *Authors:* Bhartendu Thakur, Viji Narayan
 % 
-% *School:* Departement of Mathematics, IIST
 %% Description
 % In this example we will sovle a maze using Q-Learning (Reinforcement Learning)
 % 
